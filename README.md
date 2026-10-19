@@ -1,10 +1,12 @@
 🐍 Python Codes — Learning Journey
 Welcome to my Python practice repository! This repository contains beginner-friendly Python programs I write while learning programming fundamentals and improving my problem-solving skills.
+
 🎯 Goals
 - Learn Python step by step, from fundamentals to core data structures.
 - Practise writing, running, and debugging small programs.
 - Build a consistent coding habit and prepare for technical interviews.
 - Keep my learning exercises organised and track my progress using Git and GitHub.
+
 🧠 Topics Covered
 Python fundamentals
 - print() and basic program structure
@@ -39,7 +41,8 @@ Small practical programs
 This repository is a work in progress. I will add more topics and exercises as I continue learning Python.
 
 📁 Repository Structure
-Programs are saved as individual .py files, grouped by the concept they practise. Examples include:
+Programs are saved as individual .py files, grouped by the concept they practise.
+Examples include:
 File	Practice topic
 helloworld.py	First Python program
 variables.py	Variables
@@ -63,6 +66,7 @@ shopping_total.py	Total calculation
 - A terminal or command prompt
 Check your Python installation:
 python --version
+
 ▶️ How to Run a Program
 1. Clone this repository or download the project files.
 2. Open the folder in Visual Studio Code.
@@ -72,6 +76,7 @@ python helloworld.py
 For example, to run the list-method practice file:
 python listmethod.py
 Some programs ask for input. Follow the prompts shown in the terminal.
+
 📈 Learning Progress
 - [x] Basic output, variables, and data types
 - [x] User input and arithmetic operations
@@ -84,8 +89,11 @@ Some programs ask for input. Follow the prompts shown in the terminal.
 - [ ] File handling and exceptions
 - [ ] More problem-solving exercises
 Checklist reflects my learning notes and may change as I practise more.
+
 🔗 Repository
 GitHub: Python-Codes
+
 🙋 About
 I am learning Python as part of my programming journey, with a long-term goal of strengthening my problem-solving skills and applying programming to blockchain development.
+
 ⭐ Thanks for visiting my learning repository!
